@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "fsharpStuck", "fsharpStuck.fsproj", "{B6662401-7404-49FC-B245-E4D21E74A587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6662401-7404-49FC-B245-E4D21E74A587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6662401-7404-49FC-B245-E4D21E74A587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6662401-7404-49FC-B245-E4D21E74A587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6662401-7404-49FC-B245-E4D21E74A587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {759A6CFB-8A22-4A8E-8B91-1D92A0C98C02}
+	EndGlobalSection
+EndGlobal
